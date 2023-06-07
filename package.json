@@ -1,0 +1,13 @@
+{
+  "name": "workshop-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodeWorks.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["nodejs"],
+  "author": "Marilzon",
+  "license": "ISC"
+}
