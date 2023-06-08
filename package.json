@@ -5,7 +5,7 @@
   "main": "nodeWorks.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "http": "nodemon src/simpleHttpRoute.js"
   },
   "keywords": ["nodejs"],
   "author": "Marilzon",
