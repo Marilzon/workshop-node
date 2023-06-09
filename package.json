@@ -5,7 +5,7 @@
   "main": "nodeWorks.js",
   "type": "module",
   "scripts": {
-    "http": "nodemon src/simpleHttpRoute.js"
+    "dev": "nodemon src/readingLine.js"
   },
   "keywords": ["nodejs"],
   "author": "Marilzon",
